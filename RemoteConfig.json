@@ -4,7 +4,7 @@
   "forceUpdateContent": "GAME is removed on store!\nSupport us and PLAY MORE GAMES\nin new version!",
   "forceUpdateUrl": "market://details?id=EMPTY",
   "checkClone": false,
-  "reviewVersion": 2,
+  "reviewVersion": 3,
   "showNESGamesTimeDelay": 10000,
   "adsNetwork": 0,
   "adsType": 0,
